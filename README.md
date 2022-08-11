@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdukakhkhor Otajonov</h1>
 <h3 align="center">A passionate android developer from Uzbekistan</h3>
+<hr>
+
 ## 🔧 Technologies & Tools
 ![Android](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
