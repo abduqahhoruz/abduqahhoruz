@@ -13,13 +13,20 @@
 <hr>
 - 🔭 I’m currently working on [AIVA Group] (https://aivagroup.uz/)
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose** and really feeling interest in **Spring Boot**
 
 - 👯 I’m looking to collaborate on **Zullisonayr.uz**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abduqahhoruz](https://github.com/abduqahhoruz)
 
+- ⚡ Fun fact about me: Morning person who doesn't like music and coffee but tea)
+
 - 📫 How to reach me [Email](abugo1998@gmail.com) | [Telegram](t.me/droid_developer) | [LinkedIn](linkedin.com/in/abduqahhor)
+
+</br>
+<p align="center">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=abduqahhoruz&show_icons=true&theme=calm" width="50%"/>
+  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduqahhoruz&hide=html,css&layout=compact&theme=calm" width="42%"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
