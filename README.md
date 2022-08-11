@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abduqahhoruz](https://github.com/abduqahhoruz)
 
-- 📫 How to reach me [Email](abugo1998@gmail.com) [Telegram](t.me/droid_developer) [LinkedIn](linkedin.com/in/abduqahhor)
+- 📫 How to reach me [Email](abugo1998@gmail.com) | [Telegram](t.me/droid_developer) | [LinkedIn](linkedin.com/in/abduqahhor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
