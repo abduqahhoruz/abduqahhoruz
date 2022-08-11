@@ -23,11 +23,12 @@
 
 - 📫 How to reach me [Email](abugo1998@gmail.com) | [Telegram](t.me/droid_developer) | [LinkedIn](linkedin.com/in/abduqahhor)
 
+<hr>
 </br>
 <p align="center">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=abduqahhoruz&show_icons=true&theme=calm" width="50%"/>
   <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduqahhoruz&hide=html,css&layout=compact&theme=calm" width="42%"/>
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
