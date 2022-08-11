@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdukakhkhor Otajonov</h1>
 <h3 align="center">A passionate android developer from Uzbekistan</h3>
-https://tenor.com/view/programmer-gif-19019116
+![](http://i.imgur.com/OUkLi.gif)
 
 - 🔭 I’m currently working on [AIVA Group](https://play.google.com/store/apps/details?id=uz.aiva.pdd&hl=en&gl=US)
 
