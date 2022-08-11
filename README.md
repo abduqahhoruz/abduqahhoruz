@@ -11,7 +11,8 @@
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
  ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 <hr>
-- 🔭 I’m currently working on [AIVA Group](https://aivagroup.uz/)
+<br>
+- 🔭 I’m currently working on [AIVA Group](https://www.aivagroup.uz)
 
 - 🌱 I’m currently learning **Jetpack Compose** and really feeling interest in **Spring Boot**
 
