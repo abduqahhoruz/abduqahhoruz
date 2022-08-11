@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdukakhkhor Otajonov</h1>
-<h1 align="center">A passionate android developer from Uzbekistan</h1>
+### A passionate android developer from Uzbekistan
 <img src="https://media.giphy.com/media/N7Uq00XtBpUuQ/giphy.gif" width="100%">
 
 - 🔭 I’m currently working on [AIVA Group](https://play.google.com/store/apps/details?id=uz.aiva.pdd&hl=en&gl=US)
