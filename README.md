@@ -11,7 +11,7 @@
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
  ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 <hr>
-- 🔭 I’m currently working on [AIVA Group](https://play.google.com/store/apps/details?id=uz.aiva.pdd&hl=en&gl=US)
+- 🔭 I’m currently working on [AIVA Group] (https://aivagroup.uz/)
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abduqahhoruz](https://github.com/abduqahhoruz)
 
-- 📫 How to reach me **abugo1998@gmail.com**
+- 📫 How to reach me [Email](abugo1998@gmail.com) [Telegram](t.me/droid_developer) [LinkedIn](linkedin.com/in/abduqahhor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
