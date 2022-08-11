@@ -4,7 +4,7 @@ https://tenor.com/view/programmer-gif-19019116
 
 - 🔭 I’m currently working on [AIVA Group](https://play.google.com/store/apps/details?id=uz.aiva.pdd&hl=en&gl=US)
 
-- 🌱 I’m currently learning **Java Core**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👯 I’m looking to collaborate on **Zullisonayr.uz**
 
