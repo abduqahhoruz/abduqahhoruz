@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdukakhkhor Otajonov</h1>
 <h3 align="center">A passionate android developer from Uzbekistan</h3>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/R7m04yMaGWVeE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/will-smith-men-in-black-R7m04yMaGWVeE">via GIPHY</a></p>
+https://media3.giphy.com/media/R7m04yMaGWVeE/giphy.gif?cid=ecf05e4788n3ba0dnsu6e7n866jv0m6wsmd2oz81ksic6z6h&rid=giphy.gif&ct=g
+<img src="https://media.giphy.com/media/3o84sKpXBhJ0tRhqJa/giphy.gif" width="100%">
+
 - 🔭 I’m currently working on [AIVA Group](https://play.google.com/store/apps/details?id=uz.aiva.pdd&hl=en&gl=US)
 
 - 🌱 I’m currently learning **Jetpack Compose**
