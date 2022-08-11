@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdukakhkhor Otajonov</h1>
 <h3 align="center">A passionate android developer from Uzbekistan</h3>
-<img src="https://giphy.com/gifs/will-smith-men-in-black-R7m04yMaGWVeE" width="100%">
+<img src="https://media.giphy.com/media/N7Uq00XtBpUuQ/giphy.gif" width="100%">
 
 - 🔭 I’m currently working on [AIVA Group](https://play.google.com/store/apps/details?id=uz.aiva.pdd&hl=en&gl=US)
 
