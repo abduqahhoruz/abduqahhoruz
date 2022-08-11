@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact about me: Morning person who doesn't like music and coffee but tea)
 
-- 📫 How to reach me [Email](abugo1998@gmail.com) | [Telegram](t.me/droid_developer) | [LinkedIn](linkedin.com/in/abduqahhor)
+- 📫 How to reach me [Email](abugo1998@gmail.com) | [Telegram](t.me/droid_developer) | [LinkedIn](https://www.linkedin.com/in/abduqahhor/)
 
 <hr>
 </br>
