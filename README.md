@@ -29,7 +29,4 @@
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=abduqahhoruz&show_icons=true&theme=calm" width="50%"/>
   <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduqahhoruz&hide=html,css&layout=compact&theme=calm" width="42%"/>
 </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 <img src="https://media.giphy.com/media/N7Uq00XtBpUuQ/giphy.gif" width="100%">
