@@ -6,7 +6,7 @@ https://tenor.com/view/programmer-gif-19019116
 
 - 🌱 I’m currently learning **Java Core**
 
-- 👯 I’m looking to collaborate on **Koppul.uz**
+- 👯 I’m looking to collaborate on **Zullisonayr.uz**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abduqahhoruz](https://github.com/abduqahhoruz)
 
