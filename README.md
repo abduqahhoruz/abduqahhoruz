@@ -13,11 +13,11 @@
 <br>
 <hr>
 
-- 🔭 I’m currently working on [AIVA Group](https://www.aivagroup.uz)
+- 🔭 I’m currently working on [New Tech Solutions](https://www.aivagroup.uz)
 
 - 🌱 I’m currently learning **Jetpack Compose** and really feeling interest in **Spring Boot**
 
-- 👯 I’m looking to collaborate on **Zullisonayr.uz**
+- 👯 I’m looking to collaborate on **We connect**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abduqahhoruz](https://github.com/abduqahhoruz)
 
