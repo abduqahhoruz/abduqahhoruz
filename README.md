@@ -13,7 +13,7 @@
 <br>
 <hr>
 
-- 🔭 I’m currently working on [New Tech Solutions](https://www.aivagroup.uz)
+- 🔭 I’m currently working on [New Tech Solutions](https://www.pospoint.uz)
 
 - 🌱 I’m currently learning **Jetpack Compose** and really feeling interest in **Spring Boot**
 
